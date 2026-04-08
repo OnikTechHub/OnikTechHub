@@ -28,7 +28,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" />
 <br>
-<sub><b>Additional:</b> DaisyUI, React Icons, Context API</sub>
+<h3><sub><b>Additional:</b> DaisyUI, React Icons, Context API</sub></h3>
 </p>
 
 ### ⚙️ Back-End
