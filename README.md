@@ -54,7 +54,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ## 📧 Contact
 - 📍 Location: Chattogram City, Bangladesh
-- 📩 Email: onikdas.dev@gmail.com 
+- 📩 Email: onikdas.dev@gmail.com
 
 ---
 <p align="right">⭐ From <a href="https://github.com/OnikTechHub">Onik Das</a></p>
