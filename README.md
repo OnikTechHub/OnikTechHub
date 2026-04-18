@@ -52,9 +52,10 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 ```javascript
 const onikDas = {
   pronouns: "he/him",
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["React", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
-  learning: ["Next.js"],
+  code: ["HTML", "CSS", "JavaScript", "React ES6+"],
+  libraries: ["React Router", "React Toastify", "React Icons", "React Spinners"],
+  tools: ["Tailwind CSS", "DaisyUI", "Git", "GitHub", "Vercel", "Netlify", "ImageBB"],
+  learning: ["Next.js", "Backend Integration"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
@@ -80,7 +81,7 @@ const onikDas = {
 
   <br/><br/>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/OnikTechHub/github-readme-activity-graph">
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" 
       width="100%"
