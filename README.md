@@ -16,8 +16,10 @@
   Crafting digital experiences with precision and code.
 </p>
 
---- 
+---
+
 ## 📍 About Me
+
 I am a passionate Web Developer currently learning Full-Stack Development from **Programming Hero**. I enjoy building responsive and user-friendly websites using modern technologies like **React** and **Tailwind CSS**.
 
 - 🌱 I’m currently learning **Next.js & Backend Integration**
@@ -27,9 +29,10 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ---
 
-## 🚀 My Tech Stack 
+## 🚀 My Tech Stack
 
 ### 💻 Front-End
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" />
 <br>
@@ -37,11 +40,13 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 </p>
 
 ### ⚙️ Back-End
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,expressjs" />
 </p>
 
 ### 🛠️ Tools & Others
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
 <img src="https://img.shields.io/badge/ImageBB-Cloud_Storage-00d2ff?style=flat-square&logo=icloud&logoColor=white" height="48" />
@@ -53,19 +58,34 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 const onikDas = {
   pronouns: "he/him",
   code: ["HTML", "CSS", "JavaScript", "React ES6+"],
-  libraries: ["React Router", "React Toastify", "React Icons", "React Spinners"],
-  tools: ["Tailwind CSS", "DaisyUI", "Git", "GitHub", "Vercel", "Netlify", "ImageBB"],
+  libraries: [
+    "React Router",
+    "React Toastify",
+    "React Icons",
+    "React Spinners",
+  ],
+  tools: [
+    "Tailwind CSS",
+    "DaisyUI",
+    "Git",
+    "GitHub",
+    "Vercel",
+    "Netlify",
+    "ImageBB",
+  ],
   learning: ["Next.js", "Backend Integration"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
-    "Improving problem-solving and debugging skills"
+    "Improving problem-solving and debugging skills",
   ],
   goals: "Become a full-stack developer",
-  challenge: "Consistently improving skills by building and shipping projects"
+  challenge: "Consistently improving skills by building and shipping projects",
 };
 ```
+
 ## 📊 &nbsp;Github Stats
+
 <div align="center">
   <img 
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
@@ -74,12 +94,12 @@ const onikDas = {
   
   <br/><br/>
 
-  <img 
+<img 
     src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=00d2ff&stroke=00d2ff&hide_border=true" 
     height="165" 
   />
 
-  <br/><br/>
+<br/><br/>
 
 <a href="https://github.com/OnikTechHub">
   <img 
@@ -92,9 +112,9 @@ const onikDas = {
 ## 📞 Contact Me
 
 <div align="left">
-  <a href="onikdas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:onikdas.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/OnikTechHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -106,4 +126,5 @@ const onikDas = {
 **Let's build something amazing together!** 🚀
 
 ---
+
 <p align="right">⭐ Designed with ❤️ by <a href="https://github.com/OnikTechHub">Onik Das</a></p>
