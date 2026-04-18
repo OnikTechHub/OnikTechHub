@@ -1,17 +1,22 @@
 <p align="center">
   <img src="https://i.ibb.co.com/Qjhnx9zz/1775649357811.png" alt="Onik Das Banner" />
 </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Onik+Das;Front-End+Developer;Full-Stack+Enthusiast;Nice+to+meet+you!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Onik Das</h1>
-<h3 align="center">Front-End Developer | Full-Stack Enthusiast</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Learning-Programming%20Hero-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Programming%20Hero-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-blue?style=flat-square&logo=react" />
+  Crafting digital experiences with precision and code.
 </p>
 
----
-
+--- 
 ## 📍 About Me
 I am a passionate Web Developer currently learning Full-Stack Development from **Programming Hero**. I enjoy building responsive and user-friendly websites using modern technologies like **React** and **Tailwind CSS**.
 
@@ -28,7 +33,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" />
 <br>
-<h3><sub><b>Additional:</b> DaisyUI, React Icons, Context API</sub></h3>
+<h3><sub><b>Additional Libraries:</b> DaisyUI, React Icons, React Toastify, React Spinners</sub></h3>
 </p>
 
 ### ⚙️ Back-End
@@ -39,13 +44,13 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 ### 🛠️ Tools & Others
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
+<img src="https://img.shields.io/badge/ImageBB-Cloud_Storage-00d2ff?style=flat-square&logo=icloud&logoColor=white" height="48" />
 </p>
 
 ---
 
-
 ```javascript
-const nusratJahan = {
+const onikDas = {
   pronouns: "he/him",
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["React", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
@@ -59,19 +64,17 @@ const nusratJahan = {
   challenge: "Consistently improving skills by building and shipping projects"
 };
 ```
-```
 ## 📊 &nbsp;Github Stats
-
 <div align="center">
   <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
     height="165" 
   />
   
   <br/><br/>
 
   <img 
-    src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=00d2ff&stroke=00d2ff&hide_border=true" 
     height="165" 
   />
 
@@ -79,22 +82,27 @@ const nusratJahan = {
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" 
       width="100%"
     />
   </a>
 </div>
+
+## 📞 Contact Me
+
+<div align="left">
+  <a href="mailto:onikdas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OnikTechHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Chattogram,%20Bangladesh-00d2ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
+
+<br />
+
+**Let's build something amazing together!** 🚀
+
 ---
-
-## 📞 Contact
-
-**Name:** Onik Das
-
-**Email:** [onikdas.dev@gmail.com](onikdas.dev@gmail.com)
-
-**GitHub:** [https://github.com/your-OnikTechHub](https://github.com/OnikTechHub)
-
-**Location:** Chattogram City,Bangladesh.
-
----
-<p align="right">⭐ From <a href="https://github.com/OnikTechHub">Onik Das</a></p>
+<p align="right">⭐ Designed with ❤️ by <a href="https://github.com/OnikTechHub">Onik Das</a></p>
