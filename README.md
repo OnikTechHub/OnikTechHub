@@ -59,27 +59,31 @@ const nusratJahan = {
   challenge: "Consistently improving skills by building and shipping projects"
 };
 ```
+```
 ## 📊 &nbsp;Github Stats
 
-<div align="center" style="display:flex; gap:10px;">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    height="165"
+<div align="center">
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+    height="165" 
   />
-  <img
-    src="https://streak-stats.demolab.com/?user=nusratjahan7&theme=radical&hide_border=true"
-    height="165"
+  
+  <br/><br/>
+
+  <img 
+    src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=radical&hide_border=true" 
+    height="165" 
   />
+
+  <br/><br/>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true" 
+      width="100%"
+    />
+  </a>
 </div>
-        
-
-        
-
-<br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ---
 
 ## 📞 Contact
