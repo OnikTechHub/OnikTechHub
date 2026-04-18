@@ -81,12 +81,12 @@ const onikDas = {
 
   <br/><br/>
 
-  <a href="https://github.com/OnikTechHub/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" 
-      width="100%"
-    />
-  </a>
+<a href="https://github.com/OnikTechHub">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" 
+    width="100%"
+  />
+</a>
 </div>
 
 ## 📞 Contact Me
