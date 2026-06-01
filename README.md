@@ -1,12 +1,12 @@
-<!-- 🌊 PREMIUM LIVE ANIMATION BANNER -->
+<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER -->
 <p align="center">
-  <img src="banner.svg?v=1" alt="Onik Das Animated Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=52&duration=2000&pause=1000&color=F5E0C3&background=0D1B15&center=true&vCenter=true&width=1200&height=220&lines=ONIK+DAS;FULL+STACK+DEVELOPER" alt="Onik Das Banner" width="100%" />
 </p>
 
-<!-- ✍️ SUB-TITLE TYPING ANIMATION -->
+<!-- ✍️ MODERN SUB-TITLE TYPING ANIMATION (Fixed Fonts & Style) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=3cd070&center=true&vCenter=true&width=800&height=50&lines=Building+Scalable+Code+for+a+Digital+Future;Next.js+Specialist+%7C+Frontend+Expert;Let's+create+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%92%BB;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -30,48 +30,47 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Programming%20Hero-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Learning" />
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/TRAINING-PROGRAMMING%20HERO-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Learning" />
+  <img src="https://img.shields.io/badge/SPECIALITY-REACT%20%26%20NEXT.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
 </div>
 
 <p align="center">
-  Crafting digital experiences with precision and code.
+  <em>Crafting high-fidelity user interfaces with clean, modern code architectures.</em>
 </p>
 
 --- 
 
-## 📍 About Me
-I am a passionate Web Developer currently learning Full-Stack Development from **Programming Hero**. I enjoy building responsive and user-friendly websites using modern technologies like **React** and **Tailwind CSS**.
+## 🎯 About Me
+I am a passionate **Full-Stack Web Developer** deeply invested in building responsive, efficient, and visually stunning web experiences. Currently polishing my skills through rigorous full-stack training, I bridge the gap between complex backend logic and pixel-perfect frontend design.
 
-- 🌱 I’m currently learning **Next.js & Backend Integration**
-- 💻 Building projects with **Clean UI and Smooth UX**
-- 🧠 Deep diving into **JavaScript ES6+ and React Router**
-- 🎯 Goal: To build scalable web applications that solve real-world problems.
+- 🚀 **Core Focus:** Architecting robust web apps using **React**, **Next.js**, and **Tailwind CSS**.
+- 🌱 **Current Pursuit:** Mastering scalable backend integrations, advanced authentication flows, and data optimization.
+- ⚡ **Philosophy:** I don't just write code — I build structured, user-centric solutions from scratch.
+- 🧩 **Problem Solving:** Passionate about local storage data persistence, API structures, and state management.
 
 ---
 
 ## 🚀 My Tech Stack 
 
-### 💻 Front-End
+### 💻 Front-End Frameworks & UI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" alt="Frontend Tech" />
 </p>
-<h3><sub><b>Additional Libraries:</b> DaisyUI, React Icons, React Toastify, React Spinners</sub></h3>
+<h3><sub><b>UI Systems & Tools:</b> DaisyUI, Figma Architecture, React Icons, Clean Typography</sub></h3>
 
-### ⚙️ Back-End
+### ⚙️ Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,expressjs" alt="Backend Tech" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,firebase" alt="Backend Tech" />
 </p>
 
-### 🛠️ Tools & Others
+### 🛠️ Workflow & Cloud Deployments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" alt="Tools" />
-  <img src="https://img.shields.io/badge/ImageBB-Cloud_Storage-00d2ff?style=flat-square&logo=icloud&logoColor=white" height="48" alt="ImgBB" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
   
@@ -88,14 +87,14 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ---
 
-## 📞 Contact Me
+## 📞 Contact & Connections
 
 <div align="left">
   <a href="mailto:onikdas.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/OnikTechHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&gradient=true" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Chattogram,%20Bangladesh-00d2ff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
@@ -104,21 +103,22 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ---
 
-<!-- 🏁 PREMIUM WAVE AUTOMATED FOOTER SECTION -->
+<!-- 🏁 FIXED HIGH-QUALITY EMBEDDED FOOTER BANNER -->
 <div align="center">
+  <!-- Elegant Typing Quote -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&style=italic&weight=400&size=20&duration=4000&pause=1500&color=f5e0c3&center=true&vCenter=true&width=700&height=40&lines=%22+I+don't+just+write+code+%E2%80%94+I+craft+digital+experiences+that+leave+a+mark.+%22;%22+Turning+complex+logic+into+elegant%2C+responsive+interfaces.+%22" alt="Footer Typing Quote" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&style=italic&weight=500&size=21&duration=4500&pause=1500&color=F5E0C3&center=true&vCenter=true&width=750&height=40&lines=%22+Turning+complex+backend+logic+into+elegant+user+interfaces.+%22;%22+Striving+for+pixel-perfection+and+scalable+architectures.+%22" alt="Footer Typing Quote" />
   </a>
 
   <br />
-  <h3>🤝 Let's work together</h3>
+  <h3>🤝 Available for New Opportunities</h3>
   <p>
-    <code>Full-time</code> &nbsp;&bull;&nbsp; <code>Freelance</code> &nbsp;&bull;&nbsp; <code>Open Source</code> &nbsp;&bull;&nbsp; <code>Collaboration</code>
+    <code>Full-Time Roles</code> &nbsp;&bull;&nbsp; <code>Freelance Projects</code> &nbsp;&bull;&nbsp; <code>Open Source Collaborations</code>
   </p>
 
   <br />
   <a href="https://www.linkedin.com/in/onik-das" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn Connect" />
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn Connect" />
   </a>
   &nbsp;
   <a href="https://github.com/OnikTechHub" target="_blank">
@@ -127,8 +127,8 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
   <br /><br />
   
-  <!-- 🌊 Animated Footer Wave Layer -->
-  <img src="footer.svg?v=1" alt="Animated Footer Wave" width="100%" />
+  <!-- Premium Footer Asset (Render-Safe Custom Image Shield Layout) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=1000&color=A3BE8C&background=070F0B&center=true&vCenter=true&width=1200&height=100&lines=KEEP+BUILDING++%E2%80%A2++KEEP+GROWING" alt="Animated Footer Banner" width="100%" />
 </div>
 
 ---
