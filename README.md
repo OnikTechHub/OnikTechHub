@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Qjhnx9zz/1775649357811.png" alt="Onik Das Banner" />
+  <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Banner" />
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
