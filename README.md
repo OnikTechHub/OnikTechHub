@@ -3,10 +3,10 @@
   <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Premium Banner" width="100%" />
 </p>
 
-<!-- ✍️ MODERN SUB-TITLE TYPING ANIMATION -->
+<!-- ✍️ BRAND NEW MODERN SUB-TITLE TYPING ANIMATION (UPDATED) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%92%BB;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Premium+UI+with+Figma-to-Code+Precision+%F0%9F%8E%A8;Specialized+in+Next.js%2C+React+%26+Scalable+Architecture+%E2%9A%A1;Turning+Complex+Logic+into+Elegant+Web+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
