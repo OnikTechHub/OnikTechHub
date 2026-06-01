@@ -1,6 +1,6 @@
 <!-- 🌊 PREMIUM LIVE ANIMATION BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OnikTechHub/OnikTechHub/main/banner.svg" alt="Onik Das Animated Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/OnikTechHub/OnikTechHub@main/banner.svg" alt="Onik Das Animated Banner" width="100%" />
 </p>
 
 <!-- ✍️ SUB-TITLE TYPING ANIMATION -->
@@ -127,8 +127,8 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
   <br /><br />
   
-  <!-- 🌊 Animated Footer Wave Layer -->
-  <img src="https://raw.githubusercontent.com/OnikTechHub/OnikTechHub/main/footer.svg" alt="Animated Footer Wave" width="100%" />
+  <!-- 🌊 Animated Footer Wave Layer (Linked via CDN) -->
+  <img src="https://cdn.jsdelivr.net/gh/OnikTechHub/OnikTechHub@main/footer.svg" alt="Animated Footer Wave" width="100%" />
 </div>
 
 ---
