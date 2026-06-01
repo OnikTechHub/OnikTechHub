@@ -55,7 +55,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" alt="Frontend Tech" />
 </p>
-<h4>🛠️ <b>UI Systems & Tools:</b> <code>DaisyUI</code> • <code>Figma Architecture</code> • <code>React Icons</code> • <code>Clean Typography</code></h4>
+<h4>🛠️ <b>UI Systems & Tools:</b> <code>DaisyUI</code> • <code>HeroUI</code> • <code>Figma Architecture</code> • <code>React Icons</code> • <code>GravityUi Icons</code> • <code>Clean Typography</code></h4>
 
 ### ⚙️ Back-End & Databases
 <p align="left">
