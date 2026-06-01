@@ -1,12 +1,12 @@
-<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER (ImgBB Link) -->
+<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER (Put your ImgBB Direct Link here) -->
 <p align="center">
-  <img src="https://i.ibb.co/6wDksYmP/onik-das-banner.png" alt="Onik Das Banner" width="100%" />
+  <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Premium Banner" width="100%" />
 </p>
 
 <!-- ✍️ MODERN SUB-TITLE TYPING ANIMATION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%0A1010;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%92%BB;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
