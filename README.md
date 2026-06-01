@@ -47,7 +47,6 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 <img src="https://img.shields.io/badge/ImageBB-Cloud_Storage-00d2ff?style=flat-square&logo=icloud&logoColor=white" height="48" />
 </p>
 
-```
 ## 📊 &nbsp;Github Stats
 <div align="center">
   <img 
