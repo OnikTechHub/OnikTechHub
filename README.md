@@ -81,7 +81,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
   <a href="https://github.com/OnikTechHub" target="_blank">
     <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
   </a>
-  <a href="https://onikdas-dev.vercel.app" target="_blank">
+  <a href="https://vercel.com/oniktechhubs-projects" target="_blank">
     <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
   </a>
   <a href="mailto:onikdas.dev@gmail.com">
@@ -106,7 +106,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
   <br />
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn Connect" />
   </a>
   &nbsp;
