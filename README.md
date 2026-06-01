@@ -8,7 +8,24 @@
   </a>
 </h1>
 
+<!-- Quick Action Social Badges from image_ef0d6b.png -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/OnikTechHub" target="_blank">
+    <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
+  </a>
+  <a href="https://vercel.com/oniktechhubs-projects" target="_blank">
+    <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
+  </a>
+  <a href="mailto:onikdas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=OnikTechHub&color=6a8770&style=for-the-badge&label=VISITORS" alt="Visitors" />
+</div>
 
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Learning-Programming%20Hero-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Learning" />
@@ -59,8 +76,8 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
   
   <br/><br/>
 
-  <!-- GitHub Streak Stats with customized color tones matching image_ef0a28.png -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=OnikTechHub&theme=dark&background=0d1117&ring=6a8770&fire=dfa06f&currStreakNum=f5e0c3&sideLabels=6a8770&stroke=6a8770&hide_border=true" height="165" alt="GitHub Streak" />
+  <!-- Fixed Stable GitHub Streak Card Deployment with correct params -->
+  <img src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=6a8770&fire=dfa06f&currStreakNum=f5e0c3&sideLabels=6a8770&stroke=6a8770&hide_border=true" height="165" alt="GitHub Streak" />
 
   <br/><br/>
 
@@ -68,29 +85,6 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=6a8770&line=3cd070&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
-
----
-
-## 📞 Contact Me
-
-<!-- Quick Action Social Badges from image_ef0d6b.png -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/OnikTechHub" target="_blank">
-    <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
-  </a>
-  <a href="https://vercel.com/oniktechhubs-projects" target="_blank">
-    <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
-  </a>
-  <a href="mailto:onikdas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=OnikTechHub&color=6a8770&style=for-the-badge&label=VISITORS" alt="Visitors" />
-</div>
-
-<br />
 
 ---
 
