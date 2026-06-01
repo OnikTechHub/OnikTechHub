@@ -1,4 +1,4 @@
-<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER (Put your ImgBB Direct Link here) -->
+<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER -->
 <p align="center">
   <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Premium Banner" width="100%" />
 </p>
@@ -35,12 +35,17 @@
 --- 
 
 ## 🎯 About Me
-I am a passionate **Full-Stack Web Developer** deeply invested in building responsive, efficient, and visually stunning web experiences. Currently polishing my skills through rigorous full-stack training, I bridge the gap between complex backend logic and pixel-perfect frontend design.
 
-- 🚀 **Core Focus:** Architecting robust web apps using **React**, **Next.js**, and **Tailwind CSS**.
-- 🌱 **Current Pursuit:** Mastering scalable backend integrations, advanced authentication flows, and data optimization.
-- ⚡ **Philosophy:** I don't just write code — I build structured, user-centric solutions from scratch.
-- 🧩 **Problem Solving:** Passionate about local storage data persistence, API structures, and state management.
+> 💻 As a dedicated **MERN Stack Developer** and **Frontend Expert**, I specialize in building pixel-perfect, high-fidelity user interfaces and tying them seamlessly to robust backend systems. With a strong focus as a **Next.js Specialist**, I engineering modern web solutions that balance clean aesthetics with highly-optimized performance.
+
+<br />
+
+### 🚀 Technical Expertise & Architectural Focus
+
+* 🎨 **Figma-to-Code Precision:** Expert in transforming intricate web UI designs into modular, clean, and interactive responsive structures using **React** and **Tailwind CSS**.
+* ⚡ **Next-Gen Frontend:** Utilizing **Next.js** for building scalable, production-ready full-stack routing, state optimization, and modern web architectures.
+* ⚙️ **Backend Logic & Flow:** Writing efficient server-side operations using **Node.js** and **Express**, integrated with secure authentication systems and **MongoDB** for seamless data handling.
+* 🧩 **Advanced Problem Solving:** Focused on solid state management, dynamic API structures, and persistent caching strategies like local storage integration.
 
 ---
 
@@ -50,7 +55,7 @@ I am a passionate **Full-Stack Web Developer** deeply invested in building respo
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nextjs,reactrouter" alt="Frontend Tech" />
 </p>
-<h3><sub><b>UI Systems & Tools:</b> DaisyUI, Figma Architecture, React Icons, Clean Typography</sub></h3>
+<h4>🛠️ <b>UI Systems & Tools:</b> <code>DaisyUI</code> • <code>Figma Architecture</code> • <code>React Icons</code> • <code>Clean Typography</code></h4>
 
 ### ⚙️ Back-End & Databases
 <p align="left">
@@ -67,7 +72,7 @@ I am a passionate **Full-Stack Web Developer** deeply invested in building respo
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
-  
+   
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=6a8770&fire=dfa06f&currStreakNum=f5e0c3&sideLabels=6a8770&stroke=6a8770&hide_border=true" height="165" alt="GitHub Streak" />
@@ -120,7 +125,7 @@ I am a passionate **Full-Stack Web Developer** deeply invested in building respo
   </a>
 
   <br /><br />
-  
+   
   <!-- 🌊 Smooth Animated Footer Banner (Fixed Speed to 3.5s & Balanced Text) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3500&color=A3BE8C&background=070F0B&center=true&vCenter=true&width=1200&height=80&lines=KEEP+BUILDING++%E2%80%A2++KEEP+GROWING" alt="Animated Footer Banner" width="100%" />
 </div>
