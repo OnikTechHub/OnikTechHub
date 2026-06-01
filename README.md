@@ -1,16 +1,16 @@
-<!-- Premium Customized Greenish Matte Banner Setup -->
+<!-- Premium Customized Greenish Matte Banner from image_ee20a8.jpg -->
 <p align="center">
-  <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Banner" />
+  <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Banner" width="100%" />
 </p>
 
-<!-- Dynamic Typing Animation Section (Just like your friend's top text) -->
+<!-- Dynamic Typing Animation Matching Your Banner Details -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=a3be8c&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Onik+Das;MERN+Stack+Developer;Next.js+Specialist;Frontend+Expert;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2E7D32&center=true=true&width=800&height=60&lines=I'm+Onik+Das;Building+Scalable+Code+for+a+Digital+Future;Professional+MERN+Stack+Developer;Frontend+Expert+%26+Next.js+Specialist" alt="Typing SVG" />
   </a>
 </h1>
 
-<!-- Quick Action Badges matching image_ee3085.png color profile -->
+<!-- Quick Action Social Badges Synchronized with Banner Info -->
 <div align="center">
   <a href="https://www.linkedin.com/in/onik-das" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn" />
@@ -18,7 +18,7 @@
   <a href="https://github.com/OnikTechHub" target="_blank">
     <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
   </a>
-  <a href="https://vercel.com/oniktechhubs-projects" target="_blank">
+  <a href="https://onikdas-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
   </a>
   <a href="mailto:onikdas.dev@gmail.com">
@@ -78,7 +78,7 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
   
   <br/><br/>
 
-  <!-- Stable GitHub Streak Card Deployment -->
+  <!-- Fixed Stable GitHub Streak Card Deployment with correct params -->
   <img src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=6a8770&fire=dfa06f&currStreakNum=f5e0c3&sideLabels=6a8770&stroke=6a8770&hide_border=true" height="165" alt="GitHub Streak" />
 
   <br/><br/>
@@ -106,9 +106,9 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ---
 
-<!-- Premium Wavy Aesthetic Footer matching your friend's profile style -->
+<!-- Premium Custom Footer Footer Section -->
 <div align="center">
-  <!-- Typing SVG for Footer (Simulating the top typing animation at footer context) -->
+  <!-- Italic Typing SVG for Footer mimicking image_ee20a8.jpg branding style -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&style=italic&weight=400&size=20&duration=4000&pause=1500&color=f5e0c3&center=true&vCenter=true&width=700&height=40&lines=%22+I+don't+just+write+code+%E2%80%94+I+craft+digital+experiences+that+leave+a+mark.+%22;%22+Turning+complex+logic+into+elegant%2C+responsive+interfaces.+%22" alt="Footer Typing Quote" />
   </a>
