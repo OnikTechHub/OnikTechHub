@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Onik+Das;Front-End+Developer;Full-Stack+Enthusiast;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Onik+Das;MERN Stack Developer;Next.js Specialist;Frontend Expert;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -47,23 +47,6 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 <img src="https://img.shields.io/badge/ImageBB-Cloud_Storage-00d2ff?style=flat-square&logo=icloud&logoColor=white" height="48" />
 </p>
 
----
-
-```javascript
-const onikDas = {
-  pronouns: "he/him",
-  code: ["HTML", "CSS", "JavaScript", "React ES6+"],
-  libraries: ["React Router", "React Toastify", "React Icons", "React Spinners"],
-  tools: ["Tailwind CSS", "DaisyUI", "Git", "GitHub", "Vercel", "Netlify", "ImageBB"],
-  learning: ["Next.js", "Backend Integration"],
-  currentFocus: [
-    "Building scalable and responsive web applications",
-    "Strengthening core JavaScript and React fundamentals",
-    "Improving problem-solving and debugging skills"
-  ],
-  goals: "Become a full-stack developer",
-  challenge: "Consistently improving skills by building and shipping projects"
-};
 ```
 ## 📊 &nbsp;Github Stats
 <div align="center">
