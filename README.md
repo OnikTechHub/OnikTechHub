@@ -60,6 +60,10 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
   <br/><br/>
 
+  <img src="https://github-readme-streak-stats.vercel.app/?user=OnikTechHub&theme=dark&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=00d2ff&stroke=00d2ff&hide_border=true" height="165" alt="GitHub Streak" />
+
+  <br/><br/>
+
   <a href="https://github.com/OnikTechHub">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
