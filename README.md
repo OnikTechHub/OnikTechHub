@@ -8,24 +8,7 @@
   </a>
 </h1>
 
-<!-- Quick Action Social Badges from image_ef0d6b.png -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/OnikTechHub" target="_blank">
-    <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
-  </a>
-  <a href="mailto:onikdas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=OnikTechHub&color=6a8770&style=for-the-badge&label=VISITORS" alt="Visitors" />
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Learning-Programming%20Hero-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Learning" />
@@ -90,14 +73,21 @@ I am a passionate Web Developer currently learning Full-Stack Development from *
 
 ## 📞 Contact Me
 
-<div align="left">
+<!-- Quick Action Social Badges from image_ef0d6b.png -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/OnikTechHub" target="_blank">
+    <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
+  </a>
+  <a href="https://onikdas-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
+  </a>
   <a href="mailto:onikdas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
   </a>
-  <a href="https://github.com/OnikTechHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Chattogram,%20Bangladesh-00d2ff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=OnikTechHub&color=6a8770&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </div>
 
 <br />
