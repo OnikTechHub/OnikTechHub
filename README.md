@@ -1,12 +1,12 @@
-<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER -->
+<!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER (ImgBB Link) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=52&duration=2000&pause=1000&color=F5E0C3&background=0D1B15&center=true&vCenter=true&width=1200&height=220&lines=ONIK+DAS;FULL+STACK+DEVELOPER" alt="Onik Das Banner" width="100%" />
+  <img src="https://i.ibb.co/6wDksYmP/onik-das-banner.png" alt="Onik Das Banner" width="100%" />
 </p>
 
-<!-- ✍️ MODERN SUB-TITLE TYPING ANIMATION (Fixed Fonts & Style) -->
+<!-- ✍️ MODERN SUB-TITLE TYPING ANIMATION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%92%BB;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Scalable+Web+Applications+%0A1010;Next.js+Specialist+%E2%9A%A1+%7C+Frontend+Expert;Let's+create+something+amazing%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -28,12 +28,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TRAINING-PROGRAMMING%20HERO-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Learning" />
-  <img src="https://img.shields.io/badge/SPECIALITY-REACT%20%26%20NEXT.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-</div>
-
 <p align="center">
   <em>Crafting high-fidelity user interfaces with clean, modern code architectures.</em>
 </p>
@@ -103,7 +97,7 @@ I am a passionate **Full-Stack Web Developer** deeply invested in building respo
 
 ---
 
-<!-- 🏁 FIXED HIGH-QUALITY EMBEDDED FOOTER BANNER -->
+<!-- 🏁 FIXED HIGH-QUALITY EMBEDDED FOOTER SECTION -->
 <div align="center">
   <!-- Elegant Typing Quote -->
   <a href="https://git.io/typing-svg">
@@ -127,8 +121,8 @@ I am a passionate **Full-Stack Web Developer** deeply invested in building respo
 
   <br /><br />
   
-  <!-- Premium Footer Asset (Render-Safe Custom Image Shield Layout) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=1000&color=A3BE8C&background=070F0B&center=true&vCenter=true&width=1200&height=100&lines=KEEP+BUILDING++%E2%80%A2++KEEP+GROWING" alt="Animated Footer Banner" width="100%" />
+  <!-- 🌊 Smooth Animated Footer Banner (Fixed Speed to 3.5s & Balanced Text) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3500&color=A3BE8C&background=070F0B&center=true&vCenter=true&width=1200&height=80&lines=KEEP+BUILDING++%E2%80%A2++KEEP+GROWING" alt="Animated Footer Banner" width="100%" />
 </div>
 
 ---
