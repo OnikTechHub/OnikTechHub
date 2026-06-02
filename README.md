@@ -1,6 +1,6 @@
 <!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co.com/hxZrNr7f/Green-Modern-Technology-Developers-Facebook-Cover.jpg" alt="Onik Das Premium Banner" width="100%" />
+  <img src="https://i.ibb.co.com/WYJCdd8/file-0000000077b472069210cd297922a36c.png" alt="Onik Das Premium Banner" width="100%" />
 </p>
 
 <!-- ✍️ BRAND NEW MODERN SUB-TITLE TYPING ANIMATION (UPDATED) -->
