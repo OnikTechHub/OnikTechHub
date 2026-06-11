@@ -77,15 +77,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878&ring_color=40534C" />
+
+  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnikTechHub&layout=donut&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&text_color=a89878&langs_count=6" />
+
+<br/>
+  <img height="165" alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878&ring_color=40534C" />
 
   <br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OnikTechHub&hide_border=true&background=0d1f1f&stroke=40534C&ring=677D6A&fire=D6BD98&currStreakLabel=D6BD98&sideLabels=a89878&dates=677D6A&sideNums=D6BD98&currStreakNum=ffffff" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnikTechHub&layout=donut&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&text_color=a89878&langs_count=6" />
+<img height="165" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OnikTechHub&hide_border=true&background=0d1f1f&stroke=40534C&ring=677D6A&fire=D6BD98&currStreakLabel=D6BD98&sideLabels=a89878&dates=677D6A&sideNums=D6BD98&currStreakNum=ffffff" />
 
 <br/>
 
