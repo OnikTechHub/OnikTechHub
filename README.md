@@ -18,7 +18,9 @@
   <a href="https://github.com/OnikTechHub" target="_blank">
     <img src="https://img.shields.io/badge/%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub" />
   </a>
-  
+  <a href="https://onikdas-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%20PORTFOLIO-6a8770?style=for-the-badge&logo=vercel&logoColor=f5e0c3" alt="Portfolio" />
+  </a>
   <a href="mailto:onikdas.dev@gmail.com">
     <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
   </a>
