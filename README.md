@@ -79,15 +79,15 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&bg_color=0d1117&&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
    
-  <br/>
+  <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=D6BD98&icon_color=677D6A&text_color=a89878&ring_color=40534C" height="165" alt="GitHub Streak" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://streak-stats.demolab.com/?user=OnikTechHub&theme=dark&background=0d1117&ring=6a8770&fire=dfa06f&currStreakNum=f5e0c3&sideLabels=6a8770&stroke=6a8770&hide_border=true" height="165" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
   <a href="https://github.com/OnikTechHub">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=6a8770&line=3cd070&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
