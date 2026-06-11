@@ -90,7 +90,7 @@
 <br/>
 
   <a href="https://github.com/OnikTechHub">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1117&color=6a8770&line=3cd070&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnikTechHub&bg_color=0d1f1f&color=6a8770&line=3cd070&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
