@@ -26,6 +26,9 @@
   <a href="mailto:onikdas.dev@gmail.com">
     <img src="https://img.shields.io/badge/%20EMAIL-0d1f18?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
   </a>
+  <a href="https://wa.me/8801828347761?text=Hi%20Onik,%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0a192f?style=for-the-badge&logo=whatsapp&logoColor=3cd070" alt="WhatsApp Connect" />
+  
   <img src="https://komarev.com/ghpvc/?username=OnikTechHub&color=6a8770&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </div>
 
