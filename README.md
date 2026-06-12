@@ -128,9 +128,9 @@
   </p>
 
   <br />
-  <a href="https://www.linkedin.com/in/onik-das" target="_blank">
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT-0a192f?style=for-the-badge&logo=linkedin&logoColor=3cd070" alt="LinkedIn Connect" />
-  </a>
+  <a href="https://wa.me/8801828347761?text=Hi%20Onik,%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!" target="_blank">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-0a192f?style=for-the-badge&logo=whatsapp&logoColor=3cd070" alt="WhatsApp Connect" />
+</a>
   &nbsp;
   <a href="https://github.com/OnikTechHub" target="_blank">
     <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-22332c?style=for-the-badge&logo=github&logoColor=a3be8c" alt="GitHub Follow" />
