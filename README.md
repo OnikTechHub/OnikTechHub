@@ -82,7 +82,7 @@
  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&bg_color=0d1f1f&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
 
 <br/>
-  <img height="165" alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878&ring_color=40534C" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878" />
 
   <br/>
 
