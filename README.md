@@ -3,14 +3,14 @@
 <p align="center">
   <img src="https://i.ibb.co.com/WYJCdd8/file-0000000077b472069210cd297922a36c.png" alt="Onik Das Premium Banner" width="100%" />
 </p>
-
 <!-- ✍️ BRAND NEW MODERN SUB-TITLE TYPING ANIMATION (UPDATED) -->
-<h1 align="center">
+<h1 align="center">Hi, I'm Onik Das! 👋</h1>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=3CD070&center=true&vCenter=true&width=850&height=50&lines=Building+Premium+UI+with+Figma-to-Code+Precision+%F0%9F%8E%A8;Specialized+in+Next.js%2C+React+%26+Scalable+Architecture+%E2%9A%A1;Turning+Complex+Logic+into+Elegant+Web+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  
-</h1>
+</div>
 
 <!-- 🔗 QUICK ACTIONS AND SOCIAL BADGES -->
 <div align="center">
@@ -33,11 +33,9 @@
 </div>
 
 <br />
-<p align="center">
-  <em>Crafting high-fidelity user interfaces with clean, modern code architectures.</em>
-</p>
 
-<img align="right" width="full" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+
 
 ## 🎯 About Me
 
@@ -52,7 +50,7 @@
 - ⚙️ **Backend Logic & Flow:** Writing efficient server-side operations using **Node.js** and **Express**, integrated with secure authentication systems and **MongoDB** for seamless data handling.
 - 🧩 **Advanced Problem Solving:** Focused on solid state management, dynamic API structures, and persistent caching strategies like local storage integration.
 
-<img align="right" width="full" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 
 ## 🚀 My Tech Stack
 
@@ -75,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
 </p>
 
-<img align="right" width="full" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 
 ## 📊 GitHub Analytics
 
@@ -97,7 +95,6 @@
   </a>
 </div>
 
-<img align="right" width="full" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ## 📞 Contact & Connections
 
