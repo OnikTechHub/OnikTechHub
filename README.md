@@ -40,6 +40,11 @@
 ## 🎯 About Me
 
 > 💻 As a dedicated **MERN Stack Developer** and **Frontend Expert**, I specialize in building pixel-perfect, high-fidelity user interfaces and tying them seamlessly to robust backend systems. With a strong focus as a **Next.js Specialist**, I engineering modern web solutions that balance clean aesthetics with highly-optimized performance.
+> 
+## 🛠️ Current Activities
+- 🚀 Exploring advanced concepts in Next.js.
+- 🏗️ Working on building and scaling high-fidelity web applications.
+- 💡 Actively looking for internship opportunities to contribute and grow.
 
 <br />
 
