@@ -1,7 +1,7 @@
 <div> 
   <!-- 🎨 PREMIUM HIGH-FIDELITY DESIGN BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co.com/WYJCdd8/file-0000000077b472069210cd297922a36c.png" alt="Onik Das Premium Banner" width="100%" />
+  <img src="https://i.ibb.co.com/3n1bVDF/Chat-GPT-Image-Sep-16-2026-07-18-55-PM.png" alt="Onik Das Premium Banner" width="100%" />
 </p>
 <!-- ✍️ BRAND NEW MODERN SUB-TITLE TYPING ANIMATION (UPDATED) -->
 <h1 align="center">Hi, I'm Onik Das! 👋</h1>
