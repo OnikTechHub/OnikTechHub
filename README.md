@@ -103,8 +103,10 @@
 
 <br/><br/>
 
-  <!-- 📈 LOWLIGHTER METRICS GRAPH (Generated via GitHub Action) -->
-  <img src="https://raw.githubusercontent.com/OnikTechHub/OnikTechHub/main/github-metrics.svg" width="100%" alt="Onik Das GitHub Metrics" />
+  <!-- 📈 WORKING GITHUB ACTIVITY GRAPH -->
+  <a href="https://github.com/OnikTechHub">
+    <img src="https://github-activity-graph.vercel.app/graph?username=OnikTechHub&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 ## 📞 Contact & Connections
